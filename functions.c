@@ -1,7 +1,7 @@
 //12345
 //22
 //Good Buy!
-//last maybe change
+//lastchange
 #include <iostream>
 #include <iomanip>
 #include <fstream>
