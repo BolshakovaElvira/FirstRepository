@@ -1,5 +1,6 @@
 //12345
 //22
+//Good Buy!
 #include <iostream>
 #include <iomanip>
 #include <fstream>
