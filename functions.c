@@ -1,7 +1,7 @@
 //12345
 //22
 //Good Buy!
-123
+чтобы бы мне поделать
 #include <iostream>
 #include <iomanip>
 #include <fstream>
