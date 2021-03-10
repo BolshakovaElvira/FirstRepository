@@ -5,6 +5,9 @@
 #include "functions.h"
 using namespace std;
 
+int def(){
+
+}
 
 int main(int argc, char *argv[]){
     
