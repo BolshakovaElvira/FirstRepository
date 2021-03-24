@@ -4,7 +4,7 @@
 #include <math.h>
 #include "functions.h"
 using namespace std;
-
+//new
 void printhelp(){
    cout<<"Choose a operation:\n"<<"-c - average\n"<<"-f - variance\n"<<"-n - dispersia\n";
 }
