@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+//12345
+//22
+//Good Buy!
+чтобы бы мне поделать
+>>>>>>> 1d9020b84ff68904649df39d248ac637b930fcee
 #include <iostream>
 #include <iomanip>
 #include <fstream>
