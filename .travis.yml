@@ -1,5 +1,0 @@
-language: cpp
-os: linux
-
-script:
-  - wc -w test_travis.txt
